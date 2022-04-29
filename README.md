@@ -1,4 +1,4 @@
-# Hunan-University-ModelMachine-2020-
+# Hunan-University-ModelMachine-2020
 
 ## a simple model machine, written in verilog language
 

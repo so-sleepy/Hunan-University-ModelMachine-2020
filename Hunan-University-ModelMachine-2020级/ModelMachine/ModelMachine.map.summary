@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Jan 03 00:56:40 2022
+Quartus II Version : 9.0 Build 184 04/29/2009 SP 1 SJ Web Edition
+Revision Name : ModelMachine
+Top-level Entity Name : ModelMachine
+Family : Cyclone II
+Total logic elements : 288
+    Total combinational functions : 271
+    Dedicated logic registers : 43
+Total registers : 43
+Total pins : 25
+Total virtual pins : 0
+Total memory bits : 2,048
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
